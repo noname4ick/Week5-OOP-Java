@@ -15,7 +15,7 @@ public class Flight {
         }
 
         public static void main(String[] args) {
-                Flight flight1 = new Flight(123, "New York", "12A", "Gate 5");
+                Flight flight1 = new Flight(1223, "Samarqand", "12B", "Gate 1");
                 System.out.println(flight1.toString());
         }
 }
